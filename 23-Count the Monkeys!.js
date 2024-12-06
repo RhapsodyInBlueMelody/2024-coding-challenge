@@ -1,3 +1,10 @@
+/*
+WPU Coding Challenge 23/366
+
+https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
+*/
+
+
 // function monkeyCount(n) {
 //     // your code here
 //     let arr = [];

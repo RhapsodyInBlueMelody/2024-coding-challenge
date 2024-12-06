@@ -1,3 +1,9 @@
+/*
+WPU Coding Challenge 21/366
+
+https://www.codewars.com/kata/568d0dd208ee69389d000016
+*/
+
 // function rentalCarCost(d) {
 //     // Your solution here
 //     let price = 40

@@ -2,7 +2,7 @@
  *
  * Coding Challenge 2024
  *
- * Code Wars - https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/javascript
+ * Code Wars - https://www.codewars.com/kata/5556282156230d0e5e000089/
  */
 
 
